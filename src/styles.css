@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.list-unstyled {
+  list-style: none;
+}
+.nav-menu {
+  transition: color 0.33s;
+}
+.nav-menu:hover {
+  color: red !important;
+}
